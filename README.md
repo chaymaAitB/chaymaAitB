@@ -1,15 +1,19 @@
-# 👋 Hello World! I'm AIT BENALLA Chayma
+<h1 align="center">Hi 👋, I'm chayma</h1>
+<h3 align="center">A tech enthusiast</h3>
 
+<br/><br/>
 💻 Computer Engineering student at ENSET Mohammedia, specializing in **Cybersecurity and Digital Trust**<br/>
 🌱 I am passionate about building secure and resilient systems, with a strong interest in the intersection of **Cloud Infrastructure, Artificial Intelligence, and Cybersecurity**<br/>
 ⚡ Fun fact: Your brain is essentially a 3D printer for your reality—the blueprints you feed it with your thoughts today are what it will build into your tomorrow<br/>
 
+<br/>
+<br/>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AIT BENALLA Chayma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chaymaaitbenalla@gmail.com) 
+
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=chaymaAitB&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-## 💻 Tech Stack
-
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaymaaitb&label=Profile%20views&color=0e75b6&style=flat" alt="chaymaaitb" /> </p>
 
@@ -28,4 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaymaaitb&show_icons=true&locale=en" alt="chaymaaitb" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaymaaitb&" alt="chaymaaitb" /></p>
+
 
