@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm chayma</h1>
-<h3 align="center">A tech enthusiast</h3>
 
 <br/>
 
@@ -76,12 +75,6 @@
 
 <br/>
 
-## ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-<br/>
-
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=chaymaAitB&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -92,6 +85,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaymaAitB&label=Profile%20views&color=0e75b6&style=flat" alt="chaymaaitb" /> </p>
 
+<br/>
+
+## ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+<br/>
 ---
 
 <p align="center"> 
