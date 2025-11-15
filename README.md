@@ -69,6 +69,7 @@
 
 ## 📊 GitHub Stats
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chaymaAitB&label=Profile%20views&color=0e75b6&style=flat" alt="chaymaaitb" /> </p>
 <div>
   
   ![](https://github-readme-stats.vercel.app/api?username=chaymaAitB&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
@@ -88,12 +89,6 @@
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=chaymaAitB&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-<br/>
-
-## 👀 Profile Views
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chaymaAitB&label=Profile%20views&color=0e75b6&style=flat" alt="chaymaaitb" /> </p>
 
 <br/>
 
