@@ -7,9 +7,14 @@
 ⚡ Fun fact: Your brain is essentially a 3D printer for your reality—the blueprints you feed it with your thoughts today are what it will build into your tomorrow<br/>
 
 <br/>
-<br/>
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AIT BENALLA Chayma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chaymaaitbenalla@gmail.com) 
+<h3 align="left">🌐 Socials:</h3>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chayma-ait-benalla-140174245/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chaymaaitbenalla@gmail.com) 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/chayma ait benalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chayma ait benalla" height="30" width="40" /></a>
+</p>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=chaymaAitB&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
