@@ -1,5 +1,13 @@
-## Hi there 👋
+# 👋 Hello World! I'm AIT BENALLA Chayma
 
+💻 Computer Engineering student at ENSET Mohammedia, specializing in **Cybersecurity and Digital Trust**<br/>
+🌱 I am passionate about building secure and resilient systems, with a strong interest in the intersection of **Cloud Infrastructure, Artificial Intelligence, and Cybersecurity**<br/>
+⚡ Fun fact: Your brain is essentially a 3D printer for your reality—the blueprints you feed it with your thoughts today are what it will build into your tomorrow<br/>
+
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+![](https://github-readme-stats.vercel.app/api?username=chaymaAitB&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+## 💻 Tech Stack
 <!--
 **chaymaAitB/chaymaAitB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
